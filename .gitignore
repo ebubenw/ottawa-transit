@@ -1,0 +1,11 @@
+# Dependencies
+node_modules/
+
+# Secrets
+.env
+
+# Transit data
+GTFSExport/
+
+#Mac system files
+.DS_Store
